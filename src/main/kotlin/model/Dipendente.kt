@@ -5,7 +5,7 @@ package model
 //2)costruttore primario
 //3)con la keyword var dichiaro inoltre gli attributi: nome e cognome)
 open class Dipendente (var nome:String, var cognome:String){ //open rende una classe estendibile
-
+    //Prova da github
     private var id:Int = 0
     private var eta:Int = 0
     private var stipendio:Double = 0.0
