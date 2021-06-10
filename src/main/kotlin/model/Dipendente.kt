@@ -1,5 +1,8 @@
 package model
 
+//////////////////////////////
+//Modifica con account di Gino
+
 //dichiaro contemporaneamente:
 //1)classe
 //2)costruttore primario
